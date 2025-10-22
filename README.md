@@ -27,31 +27,40 @@
 ### 💻 Tech Arsenal  
 
 <p align="center">
-  <!-- Languages -->
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" title="Python"/></a>
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript"/></a>
+  <b>Languages</b><br>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="45" title="Python"/></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="45" title="C++"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript"/></a>
+</p>
 
-  <!-- Frameworks -->
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="48" title="Flask"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" title="React"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" title="TensorFlow"/></a>
+<p align="center">
+  <b>Frameworks & Libraries</b><br>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="45" title="Flask"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="45" title="React"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" title="TensorFlow"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="45" title="PyTorch"/></a>
+</p>
 
-  <!-- Cloud & DevOps -->
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="48" title="AWS"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" title="Kubernetes"/></a>
-  <a href="https://grafana.com/" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" width="48" title="Grafana"/></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" width="48" title="Prometheus"/></a>
+<p align="center">
+  <b>Cloud & DevOps</b><br>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="45" title="AWS"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" title="Kubernetes"/></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" width="45" title="Grafana"/></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" width="45" title="Prometheus"/></a>
+</p>
 
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB"/></a>
+<p align="center">
+  <b>Databases</b><br>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB"/></a>
+</p>
 
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" title="Git"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code"/></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux"/></a>
+<p align="center">
+  <b>Tools & Environments</b><br>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="45" title="Git"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="45" title="Linux"/></a>
 </p>
 
 ---
