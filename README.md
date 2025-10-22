@@ -2,7 +2,7 @@
 
 <!-- 🧠 Cool Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE1NWRmZ2YwbDJ5OG0xZzV0ZDBrZ2l0czNqZ2E0Zm52b3BmdmFvMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD4bMW2bM1l3Bqo/giphy.gif" width="100%" alt="Coding Banner">
+  <img src="https://i.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100%" alt="Coding Banner">
 </p>
 
 <h1 align="center">Hey, I'm <span style="color:#ff6347;">Monish V</span> 👨‍💻</h1>
