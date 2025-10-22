@@ -2,8 +2,9 @@
 
 <!-- 🧠 Cool Banner -->
 <p align="center">
-  <img src="https://i.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100%" alt="Coding Banner">
+  <img src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100%" alt="Male Coding Banner">
 </p>
+
 
 <h1 align="center">Hey, I'm <span style="color:#ff6347;">Monish V</span> 👨‍💻</h1>
 <h3 align="center">🚀 Computer Science Student | AI & Cloud Enthusiast | Real-Time Vision Systems Builder</h3>
