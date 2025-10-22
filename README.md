@@ -101,7 +101,7 @@
 
 ### 👁️ Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Monish21072004&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Monish21072004.Monish21072004" alt="Profile Views" />
 </p>
 
 ---
